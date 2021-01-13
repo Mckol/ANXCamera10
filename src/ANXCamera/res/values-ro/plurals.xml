@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Focalizat. %d fețe detectate</item>
+        <item quantity="one">Focalizat. %d față detectată</item>
+        <item quantity="few">Focalizat. %d fețe detectate</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Puteți crea până la %d clone simultan.</item>
+        <item quantity="one">Puteți crea până la %d clonă simultan.</item>
+        <item quantity="few">Puteți crea până la %d clone simultan.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+        <item quantity="few">%1$s min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotografii</item>
+        <item quantity="one">%1$s fotografie</item>
+        <item quantity="few">%1$s fotografii</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Captură în rafale gata, %1$s fotografii făcute</item>
+        <item quantity="one">Captură în rafale gata, %1$s fotografie făcută</item>
+        <item quantity="few">Captură în rafale gata, %1$s fotografii făcute</item>
+    </plurals>
+</resources>

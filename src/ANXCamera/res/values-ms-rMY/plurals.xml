@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Difokus. %d wajah dikesan</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Anda boleh mencipta sehingga %d klon dalam satu masa.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s gambar</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Tangkapan berganda selesai, %1$s gambar diambil</item>
+    </plurals>
+</resources>

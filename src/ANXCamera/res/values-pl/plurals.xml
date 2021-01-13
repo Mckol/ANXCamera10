@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Złapano ostrość. Wykryto %d twarzy</item>
+        <item quantity="one">Złapano ostrość. Wykryto %d twarz</item>
+        <item quantity="few">Złapano ostrość. Wykryto %d twarze</item>
+        <item quantity="many">Złapano ostrość. Wykryto %d twarzy</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Możesz jednorazowo utworzyć do %d klonów.</item>
+        <item quantity="one">Możesz jednorazowo utworzyć do %d klona.</item>
+        <item quantity="few">Możesz jednorazowo utworzyć do %d klonów.</item>
+        <item quantity="many">Możesz jednorazowo utworzyć do %d klonów.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+        <item quantity="few">%1$s min</item>
+        <item quantity="many">%1$s min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s zdjęć</item>
+        <item quantity="one">%1$s zdjęcie</item>
+        <item quantity="few">%1$s zdjęcia</item>
+        <item quantity="many">%1$s zdjęć</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Wykonano zdjęcia seryjne, %1$s zdjęć w serii</item>
+        <item quantity="one">Wykonano zdjęcia seryjne, %1$s zdjęcie w serii</item>
+        <item quantity="few">Wykonano zdjęcia seryjne, %1$s zdjęcia w serii</item>
+        <item quantity="many">Wykonano zdjęcia seryjne, %1$s zdjęć w serii</item>
+    </plurals>
+</resources>

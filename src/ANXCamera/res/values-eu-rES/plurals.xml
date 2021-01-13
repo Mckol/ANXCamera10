@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokuratuta: %d aurpegi detektatuta</item>
+        <item quantity="one">Fokuratuta: Aurpegi %d detektatuta</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">%d klon arte sor ditzakezu aldi bakoitzean.</item>
+        <item quantity="one">%d klon arte sor dezakezu aldi bakoitzean.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s argazki</item>
+        <item quantity="one">%1$s argazki</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Kliskatze-sorta eginda, %1$s argazki atera dira</item>
+        <item quantity="one">Kliskatze-sorta eginda, argazki %1$s bat atera da</item>
+    </plurals>
+</resources>

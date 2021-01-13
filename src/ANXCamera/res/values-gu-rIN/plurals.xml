@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ફોકસ કર્યું. %d ચહેરા મળ્યાં</item>
+        <item quantity="one">ફોકસ કર્યું. %d ચહેરો મળ્યો</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">તમે એક વખતમાં વધુમાં વધુ %d જેટલા ક્લોન બનાવી શકો છો.</item>
+        <item quantity="one">તમે એક વખતમાં વધુમાં વધુ %d જેટલા ક્લોન બનાવી શકો છો.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s મિનિટ</item>
+        <item quantity="one">%1$s મિનિટ</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ફોટા</item>
+        <item quantity="one">%1$s ફોટો</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">બર્સ્ટ શૉટ પૂર્ણ થયો, %1$s ફોટા પાડ્યાં</item>
+        <item quantity="one">બર્સ્ટ શૉટ પૂર્ણ થયો, %1$s ફોટો પાડ્યો</item>
+    </plurals>
+</resources>

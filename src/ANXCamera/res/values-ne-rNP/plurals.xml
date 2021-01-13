@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">केन्द्रित गरियो। %d अनुहारहरू पत्ता लगाइयो</item>
+        <item quantity="one">केन्द्रित गरियो। %d अनुहार पत्ता लगाइयो</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">तपाईंले एकपटकमा %d क्लोनहरू बनाउन सक्नुहुन्छ।</item>
+        <item quantity="one">तपाईंले एकपटकमा %d क्लोन बनाउन सक्नुहुन्छ।</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s मिनेट</item>
+        <item quantity="one">%1$s मिनेट</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s फोटोहरू</item>
+        <item quantity="one">%1$s फोटो</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">बर्स्ट शट पूराभयो, %1$s फोटो लिइयो</item>
+        <item quantity="one">बर्स्ट शट पूराभयो, %1$s फोटो लिइयो</item>
+    </plurals>
+</resources>

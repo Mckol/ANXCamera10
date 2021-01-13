@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ଫୋକସ କରାଯାଇଛି । %dଟି ଚେହେରା ଚିହ୍ନିତ</item>
+        <item quantity="one">ଫୋକସ କରାଯାଇଛି । %d ଚେହେରା ଚିହ୍ନିତ</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">ଆପଣ ଥରକେ %dଟି ପର୍ଯ୍ୟନ୍ତ କ୍ଲୋନ୍ ତିଆରି କରିପାରିବେ।</item>
+        <item quantity="one">ଆପଣ ଥରକେ %d ପର୍ଯ୍ୟନ୍ତ କ୍ଲୋନ୍ ତିଆରି କରିପାରିବେ ।</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$sଟି ମିନିଟ</item>
+        <item quantity="one">%1$s ମିନିଟ</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$sଟି ଫଟୋ</item>
+        <item quantity="one">%1$s ଫଟୋ</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">ବର୍ଷ୍ଟ ସଟ୍ ସମ୍ପୂର୍ଣ୍ଣ, %1$sଟି ଫଟୋ ନିଆଯାଇଛି</item>
+        <item quantity="one">ବର୍ଷ୍ଟ ସଟ୍ ସମ୍ପୂର୍ଣ୍ଣ, %1$sଟି ଫଟୋ ନିଆଯାଇଛି</item>
+    </plurals>
+</resources>

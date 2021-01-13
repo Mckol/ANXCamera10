@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">フォーカスしました。%d個の顔を認識しました。</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">一度に最大で%d体のクローンを作成できます。</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s分</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s枚</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">バースト撮影完了、%1$s枚の写真が撮影されました</item>
+    </plurals>
+</resources>

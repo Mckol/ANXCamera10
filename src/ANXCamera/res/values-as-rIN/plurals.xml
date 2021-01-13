@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">"ফ'কাছ হৈছে। %d খন মুখ চিনাক্ত হৈছে"</item>
+        <item quantity="one">"ফ'কাছ হৈছে। %d খন মুখ চিনাক্ত হৈছে"</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">আপুনি এটা সময়ত %d টা পৰ্যন্ত ক্লন সৃষ্টি কৰিব পাৰে।</item>
+        <item quantity="one">আপুনি এটা সময়ত %d টা পৰ্যন্ত ক্লন সৃষ্টি কৰিব পাৰে।</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s মিনিট</item>
+        <item quantity="one">%1$s মিনিট</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s খন ফটো</item>
+        <item quantity="one">%1$s খন ফটো</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">"বাৰ্ষ্ট শ্বট লোৱা হ'ল, %1$s খন ফটো তোলা হ'ল"</item>
+        <item quantity="one">"বাৰ্ষ্ট শ্বট লোৱা হ'ল, %1$s খন ফটো তোলা হ'ল"</item>
+    </plurals>
+</resources>

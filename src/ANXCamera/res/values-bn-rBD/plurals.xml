@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ফোকাস করা আছে।%d মুখ চেনা গিয়েছে</item>
+        <item quantity="one">ফোকাস করা আছে।%d মুখ চেনা গিয়েছে</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">আপনি একই সময়ে %d টি ক্লোন তৈরি করতে পারবেন।</item>
+        <item quantity="one">আপনি একই সময়ে %d টি ক্লোন তৈরি করতে পারবেন।</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s মিনিট</item>
+        <item quantity="one">%1$s মিনিট</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s টি ফটো</item>
+        <item quantity="one">%1$s টি ফটো</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">বাস্ট শট নেওয়া হয়েছে, %1$sটি ফটো তোলা হয়েছে</item>
+        <item quantity="one">বাস্ট শট নেওয়া হয়েছে, %1$sটি ফটো তোলা হয়েছে</item>
+    </plurals>
+</resources>

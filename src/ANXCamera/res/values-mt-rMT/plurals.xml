@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Iffukat. %d wiċċ misjub</item>
+        <item quantity="one">Iffukat. Wiċċ %d misjub</item>
+        <item quantity="few">Iffukat. %d uċuħ misjub</item>
+        <item quantity="many">Iffukat. %d-il wiċċ misjub</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">"Tista' toħloq sa %d(-il) klonu kull darba."</item>
+        <item quantity="one">"Tista' toħloq sa klonu %d kull darba."</item>
+        <item quantity="few">"Tista' toħloq sa %d kloni kull darba."</item>
+        <item quantity="many">"Tista' toħloq sa %d(-il) klonu kull darba."</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s(-il) min</item>
+        <item quantity="one">Min %1$s</item>
+        <item quantity="few">%1$s min</item>
+        <item quantity="many">%1$s(-il) min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s(-il) ritratt</item>
+        <item quantity="one">Ritratt %1$s</item>
+        <item quantity="few">%1$s ritratti</item>
+        <item quantity="many">%1$s(-il) ritratt</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">"It-teħid ta' serje ta' ritratti lest, %1$s(-il) ritratt meħud"</item>
+        <item quantity="one">"It-teħid ta' serje ta' ritratti lest, ritratt %1$s meħud"</item>
+        <item quantity="few">"It-teħid ta' serje ta' ritratti lest, %1$s ritratti meħuda"</item>
+        <item quantity="many">"It-teħid ta' serje ta' ritratti lest, %1$s(-il) ritratt meħud"</item>
+    </plurals>
+</resources>

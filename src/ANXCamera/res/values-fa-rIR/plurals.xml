@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">فوکوس شد. %d چهره شناسایی شد</item>
+        <item quantity="one">فوکوس شد. %d چهره شناسایی شد</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
+        <item quantity="one">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s دقیقه</item>
+        <item quantity="one">%1$s دقیقه</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s عکس</item>
+        <item quantity="one">%1$s عکس</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">عکس‌برداری پشت سر هم انجام شد. %1$s عکس گرفته شد</item>
+        <item quantity="one">عکس‌برداری پشت سر هم انجام شد. %1$s عکس گرفته شد</item>
+    </plurals>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/watermark_sample_layout_f" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/watermark_sample_image_f" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" />
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/time_watermark" android:visibility="invisible" android:layout_width="@dimen/time_watermark_width" android:layout_height="@dimen/time_watermark_height">
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:id="@id/time_watermark_inner" android:background="@drawable/bg_time_aiwatermark" android:layout_width="@dimen/time_watermark_inner_width" android:layout_height="@dimen/time_watermark_inner_height">
+            <TextView android:textSize="@dimen/time_watermark_date_text_size" android:textStyle="normal" android:textColor="#ffffffff" android:gravity="center" android:id="@id/date" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/time_watermark_date_margin_top" android:letterSpacing="0.02" />
+            <TextView android:textSize="@dimen/time_watermark_month_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/month" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/time_watermark_month_margin_top" />
+            <TextView android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/hour" android:background="#ffffffff" android:layout_width="@dimen/time_watermark_hour_width" android:layout_height="@dimen/time_watermark_hour_height" android:layout_marginTop="@dimen/time_watermark_hour_margin_top" android:letterSpacing="0.0" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/extend_time_watermark_1" android:visibility="invisible" android:layout_width="@dimen/extend_time_watermark_1_width" android:layout_height="@dimen/extend_time_watermark_1_height">
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="@dimen/extend_time_watermark_1_hour_text_size" android:textColor="#ffffffff" android:gravity="center" android:id="@id/extend_hour" android:layout_width="@dimen/extend_time_watermark_1_hour_width" android:layout_height="@dimen/extend_time_watermark_1_hour_height" android:fontFamily="mitype" android:textAlignment="center" />
+            <TextView android:textSize="@dimen/extend_time_watermark_1_month_text_size" android:textColor="#b2ffffff" android:gravity="center" android:id="@id/extend_month" android:layout_width="@dimen/extend_time_watermark_1_month_width" android:layout_height="@dimen/extend_time_watermark_1_month_height" android:layout_marginTop="@dimen/extend_time_watermark_1_month_margin_top" android:fontFamily="mipro-light" android:letterSpacing="0.1" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:id="@id/extend_time_watermark_2" android:visibility="invisible" android:layout_width="@dimen/extend_time_watermark_2_width" android:layout_height="@dimen/extend_time_watermark_2_height">
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="@dimen/extend_time_watermark_2_day_text_size" android:textColor="#ffffffff" android:gravity="center" android:id="@id/extend_day" android:layout_width="@dimen/extend_time_watermark_2_day_width" android:layout_height="@dimen/extend_time_watermark_2_day_height" android:fontFamily="mitype-heavy" android:textAlignment="center" />
+            <TextView android:textSize="@dimen/extend_time_watermark_2_week_text_size" android:textColor="#ffffffff" android:gravity="center" android:id="@id/extend_week" android:layout_width="@dimen/extend_time_watermark_2_week_width" android:layout_height="@dimen/extend_time_watermark_2_week_height" android:fontFamily="mipro-light" android:letterSpacing="0.1" />
+            <TextView android:textSize="@dimen/extend_time_watermark_2_logo_text_size" android:textColor="#99ffffff" android:gravity="center" android:layout_width="@dimen/extend_time_watermark_2_logo_width" android:layout_height="@dimen/extend_time_watermark_2_logo_height" android:layout_marginTop="@dimen/extend_time_watermark_2_logo_margin_top" android:text="@string/extend_time_watermark_2_logo_text" android:fontFamily="mipro-light" android:letterSpacing="0.4" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

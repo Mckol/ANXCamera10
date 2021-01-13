@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Đã lấy nét. Phát hiện %d khuôn mặt</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Bạn có thể tạo tối đa %d phân thân tại một thời điểm.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s phút</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ảnh</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Hoàn tất chụp liên tiếp, đã chụp %1$s ảnh</item>
+    </plurals>
+</resources>

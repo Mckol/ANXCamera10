@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ໂຟກັສແລ້ວ. ກວດພົບ %d ໃບໜ້າ</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">ທ່ານສາມາດສ້າງໄດ້ສູງສຸດ %d ໂຄລນໃນໜຶ່ງຄັ້ງ.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s ນາທີ</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ຮູບພາບ</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">ການຖ່າຍຮູບຕໍ່ເນື່ອງສຳເລັດແລ້ວ, ຖ່າຍແລ້ວ %1$s ຮູບ</item>
+    </plurals>
+</resources>

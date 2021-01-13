@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokus qilindi. %d ta yuz aniqlandi</item>
+        <item quantity="one">Fokus qilindi. %d ta yuz aniqlandi</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+        <item quantity="one">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s daq</item>
+        <item quantity="one">%1$s daq</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ta rasm</item>
+        <item quantity="one">%1$s ta rasm</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Seriya rasmi tayyor, %1$s ta rasm olindi</item>
+        <item quantity="one">Seriya rasmi tayyor, %1$s ta rasm olindi</item>
+    </plurals>
+</resources>

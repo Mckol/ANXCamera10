@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Enfocado. %d rostros detectados</item>
+        <item quantity="one">Enfocado. %d rostro detectado</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Puede crear hasta %d clones a la vez.</item>
+        <item quantity="one">Puede crear hasta %d clon a la vez.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s mins</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotos</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Ráfaga de fotos terminada. %1$s fotos tomadas</item>
+        <item quantity="one">Ráfaga de fotos terminada. %1$s foto tomada</item>
+    </plurals>
+</resources>

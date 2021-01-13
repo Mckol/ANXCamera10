@@ -3,7 +3,7 @@ MiuiCamera Port for Xiaomi's Devices
 
 Self sufficient repository to decompile to smali, recompile, sign, decompile to java, push to device app port.
 
-miui_CMI_20.5.7_fc0b456e4b_10.0.zip was used as src.
+miui_SURYAEEAGlobal_V12.0.4.0.QJGEUXM_6898c27142_10.0.zip was used as src.
 
 Recommended to open this Repository in VSCode
 
